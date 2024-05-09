@@ -1,7 +1,7 @@
 local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/cueshut/saves/main/criminality%20paste%20ui%20library'))()
 
 -- // Window \\ --
-local window = library.new('Trauma Hub(A-V) / Trauma Hub V4 Welcome Back', 'leadmarker')
+local window = library.new('Trauma Hub(A-V) / Trauma Hub V4 Welcome Back', '(A-V) Version BY Seek')
 
 -- // Tabs \\ --
 local tab = window.new_tab('rbxassetid://11414232888')
