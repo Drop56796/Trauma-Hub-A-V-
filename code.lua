@@ -2,7 +2,7 @@ local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/daw
 
 local win = DiscordLib:Window("Trauma Hub(A-V) / Trauma Hub V4 Welcome(Please in Doors super hard mode use mode)")
 
-local serv = win:Server(">>>", "")
+local serv = win:Server(">>>", "rbxassetid://11414232888")
 
 local btns = serv:Channel("Script mode")
 
