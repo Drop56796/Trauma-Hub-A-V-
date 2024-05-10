@@ -87,7 +87,3 @@ end)
 btns:Button("Floor2 Package", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/iCherryKardes/Doors/main/Floor%202%20Mod"))()
 end)
-
-serv:Channel("by Drop#56796")
-
-win:Server("Main", "rbxassetid://11414232888")
